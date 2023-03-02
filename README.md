@@ -365,3 +365,7 @@ There are a number of possible explanations, here are the most common ones:
 ## Acknowledgement
 
 In addition to the contributions visible on the repository history, Colm Sloan and Feargus O'Gorman have significantly contributed to the codebase in the collaboration between Andrew Hines and Google.
+
+## Dummy change
+
+And they have lived happily ever after!
